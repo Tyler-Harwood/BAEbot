@@ -1,0 +1,1 @@
+return ceil(random(global.NUMBER_OF_MAPS)) - 1;
